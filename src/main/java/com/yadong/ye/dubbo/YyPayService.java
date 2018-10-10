@@ -5,7 +5,7 @@ import com.yadong.ye.bean.Order;
 
 public interface YyPayService {
     /**
-     * ¶©µ¥´¦Àí
+     * è®¢å•å¤„ç†
      * */
     DealOrderResult dealOrder(Order order);
 }
